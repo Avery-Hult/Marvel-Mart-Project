@@ -1,0 +1,19 @@
+Sums:
+Units Sold: 2.498182e+08
+Unit Cost: 9.360768e+06
+Total Revenue: 6.614500e+10
+Total Cost: 4.662903e+10
+Total Profit:1.951597e+10
+
+Averages:
+Units Sold: 4.999263e+03
+Unit Cost: 1.873240e+02
+Total Revenue: 1.323668e+06
+Total Cost: 9.331219e+05
+Total Profit: 3.905459e+05
+
+Units Sold: 10000.00
+Unit Cost: 524.96
+Total Revenue: 6682031.73
+Total Cost: 5249075.04
+Total Profit: 1738178.39

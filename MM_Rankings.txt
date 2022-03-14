@@ -1,0 +1,33 @@
+Countries Most Sales Transactions
+Trinidad and Tobago: 321
+Guinea: 318
+Cape Verde: 314
+Maldives: 311
+Finland: 310
+Democratic Republic of the Congo: 308
+Samoa: 306
+Malta: 305
+China: 303
+South Sudan: 302
+
+I believe that the best place to put a new shipping center would be Cape Verde as it is the only other location where more than
+10% of the units sold of the top ten areas comes from, there are also more orders shipped from Cape Verde than the Maldives and 
+there is a shipping center in the Maldives.
+
+Sales Channels:
+Offline: 19788
+Online:  30183
+We do more online sales than offline sales.
+
+Order Priorities:
+C: 5012
+H: 15094
+L: 9984
+M: 19881
+We do more M order priorities.
+
+Highest Selling Items:
+Cosmetics: 3.638408e+09
+Household: 3.401181e+09
+Office Supplies: 2.605440e+09
+We profited from cosmetics the most.
